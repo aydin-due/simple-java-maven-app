@@ -50,7 +50,7 @@ job('Job test Hola Mundo') {
 	description('Aplicacion Hola Mundo de Prueba')
 	steps {
 		shell('''
-			echo "Holaaaa Mundo!!! desde la terminal no m pidan el token xfa"
+			echo "hola mundo, editado desde la terminal"
 		''')
 	}
 }
